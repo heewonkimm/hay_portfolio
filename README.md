@@ -1,7 +1,7 @@
 # HAY_PORTFOLIO  
  
 ## :pencil: 홈페이지 개요
-<img width="80%" src="https://user-images.githubusercontent.com/99087758/201685934-18a6bd7f-a85b-4868-a4e7-e271e7438d24.jpg"/>
+<img width="80%" src="https://user-images.githubusercontent.com/99087758/201687782-200405ed-cf73-4cae-a4c6-f8c35c0794fc.jpg"/>
 
 > **프로젝트**: HAY 홈페이지 리뉴얼(부트스트랩 활용)
 > 
